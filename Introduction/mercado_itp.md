@@ -6,6 +6,6 @@ Mas como você está com a matemática e a programação em dia, você resolveu 
 
 
 
-** DICA: observe bem os exemplos de entrada e saída, e veja se você consegue resolver no papel antes de ir pro código :) **
+**DICA: observe bem os exemplos de entrada e saída, e veja se você consegue resolver no papel antes de ir pro código :)**
 
-** OBS: O CÓDIGO TEVE QUE SER ADAPTADO POR CAUSA DOS OUTPUTS ESPERADOS NO SISTEMA DE PONTUAÇÃO **
+**OBS: O CÓDIGO TEVE QUE SER ADAPTADO POR CAUSA DOS OUTPUTS ESPERADOS NO SISTEMA DE PONTUAÇÃO :p**
