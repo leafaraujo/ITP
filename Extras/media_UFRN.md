@@ -11,3 +11,5 @@ Uma atividade proposta pelo material que eles entregaram, acerca da criação de
     - Sua média é recalculada com a nova nota (se houver troca)
     - Se a média for ≥ 7.0 ou média ≥ 5 && a nota da reposição ≥ 3, passou na recuperação!
     - Senão, ~~lhe dou meio ponto~~ nos veremos novamente semestre que vem  :~~~~"
+
+**Update: Acho que dava para ser feito com Swith Case, otimizaria muito, se tiver tempo, refaço utiizando esse outro tipo de condicional**
