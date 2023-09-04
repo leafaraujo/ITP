@@ -1,0 +1,3 @@
+# Chocolate (R07) #
+
+Sempre que Tim vai às compras leva para casa um tablete de chocolate da marca potência. Esses chocolates fazem muito sucesso entre os matemáticos porque o número de quadradinhos tanto na largura como no comprimento é sempre uma potência de 2. Por exemplo, 16x16, 32x4, 16x8. Tim adora quando o tablete fica no formato quadrado. Para isso, a cada dia, Tim come metade do tablete, cortando sempre de forma a reduzir o maior dos lados pela metade. Por exemplo, se estiver 64x8, Tim corta de tal forma que fique 32x8, depois 16x8 e, por fim, 8x8 (3 dias). Tim agora quer um programa que, dados dois inteiros representando o comprimento e a largura (em quadradinhos), lhe diga quantos dias levará para que o tablete fique com um tamanho quadrado.
