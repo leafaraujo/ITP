@@ -2,13 +2,14 @@
 #include <ctype.h>
 #include <string.h>
 
-void minusculo(char str_in[], char str_out[]){
+char minusculo(char str_in[], char str_out[]){
     int i = 0;
     do{
         str_out[i] = tolower(str_in[i]);
         i++;
     }while(str_in[i] != '\0');
     str_out[i] = '\0';
+    return str_out;
 }
 
 int main(){
