@@ -2,10 +2,16 @@
 
 Escreva um programa que leia da entrada-padrão 15 números inteiros positivos e os armazena em um vetor A. Depois separe os números em três vetores:
 
-1.Vetor B dos números que são múltiplos de 2.Vetor C dos números que são múltiplos de 3. 3.Vetor D dos números que não são múltiplos nem de 2 e nem de 3.
+1.Vetor B dos números que são múltiplos de 2.
+
+2.Vetor C dos números que são múltiplos de 3. 
+
+3.Vetor D dos números que não são múltiplos nem de 2 e nem de 3.
 
 **ENTRADA**
-\n A entrada de dados consiste em uma linha com 15 números.
+
+A entrada de dados consiste em uma linha com 15 números.
 
 **SAÍDA**
-\n O conteúdo dos vetores B, C e D.
+
+O conteúdo dos vetores B, C e D.
