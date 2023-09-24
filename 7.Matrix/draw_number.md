@@ -19,7 +19,9 @@ Crie uma programa que trace linhas pretas horizontais ou verticais na imagem a p
 O programa deve parar a movimentação do pincel imaginário quando o usuário informar a coordenada: -1 -1. Assim, para desenhar o dígito 1 no centro da imagem, o usuário informa:
 
 0 3
+
 6 3
+
 -1 -1
 
 Após a movimentação do cursor o programa deve imprimir a imagem colocando um tracejado ('_') quando o pixel for branco e um jogo da velha ('#') quando o pixel for preto. Use pelo menos uma função para imprimir a imagem passando a matriz como argumento.
